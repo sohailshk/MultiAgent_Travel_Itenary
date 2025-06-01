@@ -1,37 +1,41 @@
-Travel Itinerary Planner
+# Travel Itinerary Planner
 
 A sleek, AI-powered day-trip generator built with Gradio and Python. Enter a city and your interests, and get a personalized itinerary in seconds.
 
-🚀 Highlights
+---
 
-Multi-Agent AI: Coordinates language models to fetch, analyze, and format travel suggestions.
+## 🚀 Highlights
 
-Interactive UI: Built with Gradio for instant, user-friendly input and output.
+* **Multi-Agent AI**: Coordinates language models to fetch, analyze, and format travel suggestions.
+* **Interactive UI**: Built with [Gradio](https://gradio.app/) for instant, user-friendly input and output.
+* **API-Driven**: Easy integration—expose your own endpoints or embed in websites.
+* **Customizable Interests**: Supports comma-separated tags (e.g., `history, art, food`).
+* **One-Click Controls**: Clear, Submit, and Flag buttons streamline the experience.
 
-API-Driven: Easy integration—expose your own endpoints or embed in websites.
+---
 
-Customizable Interests: Supports comma-separated tags (e.g., history, art, food).
+## 🛠️ Key Technologies
 
-One-Click Controls: Clear, Submit, and Flag buttons streamline the experience.
+* **Python 3.9+**
+* **Gradio** for intuitive web interface
+* **OpenAI GPT-4** (or similar) for itinerary generation
+* **Async IO** for responsive API calls
 
-🛠️ Key Technologies
+---
 
-Python 3.9+
 
-Gradio for intuitive web interface
+## 🔍 File Overview
 
-Groq (or similar) for itinerary generation
+* `Travel_Itinerary_Planner.ipynb` – Notebook showcasing data flow and agent logic.
 
-Async IO for responsive API calls
+---
 
-🔍 File Overview
-
-Travel_Itinerary_Planner.ipynb – Notebook showcasing data flow and agent logic.
-
-🤝 Contributing
+## 🤝 Contributing
 
 Feel free to open issues or submit pull requests. Star ⭐ if you find it useful!
 
-📄 License
+---
+
+## 📄 License
 
 MIT © 2025 Your Name
