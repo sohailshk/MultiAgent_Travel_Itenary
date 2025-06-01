@@ -3,6 +3,7 @@
 A sleek, AI-powered day-trip generator built with Gradio and Python. Enter a city and your interests, and get a personalized itinerary in seconds.
 
 ---
+![Screenshot 2025-06-01 182214](https://github.com/user-attachments/assets/8e83d71d-4989-43b3-ac5a-04fa3a206ec0)
 
 ## 🚀 Highlights
 
